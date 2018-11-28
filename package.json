@@ -1,0 +1,10 @@
+{
+  "name": "fritto",
+  "version": "0.0.0",
+  "repository": "https://github.com/hastebrot/fritto",
+  "author": "Benjamin Gudehus <hastebrot@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.5.0"
+  }
+}
