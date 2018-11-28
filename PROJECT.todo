@@ -2,3 +2,6 @@ project todo file.
 
 fritto-form:
   ☐ use json schema to generate instance form.
+
+useful commands:
+  ☐ lerna add bootstrap@4.1.3 fritto-form
